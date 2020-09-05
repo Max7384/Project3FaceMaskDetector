@@ -1,4 +1,4 @@
-# Project3FaceMaskDetector
+## Project3FaceMaskDetector
 
 Project 3: Train a Face Mask Detector
 
@@ -23,3 +23,15 @@ e.g. python3 prepare_datasets_parse.py --dir test_pic_4500 --name test
 6. Run the detector.
 
 e.g. ./darknet detector train yolov3-ramps2-setup.data yolov3-ramps2-train.cfg ./darknet53.conv.74 -dont_show -mjpeg_port 8090 -map 2> log/train_y3_ramps2_log.txt
+
+## URLs of videos:
+
+# Video 1:
+
+https://youtu.be/z-TcwNMqhd0
+https://youtu.be/BTOiSL-2t04
+
+# Video 2:
+
+https://youtu.be/1JObVh5jy6w
+https://youtu.be/I6W_8L5ueeI
