@@ -28,10 +28,12 @@ e.g. ./darknet detector train yolov3-ramps2-setup.data yolov3-ramps2-train.cfg .
 
 # Video 1:
 
-https://youtu.be/z-TcwNMqhd0
-https://youtu.be/BTOiSL-2t04
+yoloV3: https://youtu.be/z-TcwNMqhd0
+
+yoloV4: https://youtu.be/BTOiSL-2t04
 
 # Video 2:
 
-https://youtu.be/1JObVh5jy6w
-https://youtu.be/I6W_8L5ueeI
+yoloV3: https://youtu.be/1JObVh5jy6w
+
+yoloV4: https://youtu.be/I6W_8L5ueeI
