@@ -12,7 +12,7 @@ The output of the model one can inspect when looking at chart*.png
 
 2. I used "prepare_datasets_parse.py" which is an adapation of your "prepare_datasets.py" to create the random test pictures set.
 
-e.g. python3 prepare_datasets_parse.py --dir test_pic_4500 --name test
+  e.g. python3 prepare_datasets_parse.py --dir test_pic_4500 --name test
 
 3. Adaption of yoloV*-mask-train.cfg in order to have a high resolution, (workable) subdivisions, filters, classes, maxbatch and steps.
 
@@ -22,7 +22,7 @@ e.g. python3 prepare_datasets_parse.py --dir test_pic_4500 --name test
 
 6. Run the detector.
 
-e.g. ./darknet detector train yolov3-ramps2-setup.data yolov3-ramps2-train.cfg ./darknet53.conv.74 -dont_show -mjpeg_port 8090 -map 2> log/train_y3_ramps2_log.txt
+  e.g. ./darknet detector train yolov3-ramps2-setup.data yolov3-ramps2-train.cfg ./darknet53.conv.74 -dont_show -mjpeg_port 8090 -map 2> log/train_y3_ramps2_log.txt
 
 ## URLs of videos:
 
